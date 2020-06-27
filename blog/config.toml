@@ -1,0 +1,4 @@
+baseURL = "https://jdxj.github.io"
+languageCode = "zh-cn"
+title = "jdxj"
+theme = "paper"

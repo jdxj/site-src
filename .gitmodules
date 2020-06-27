@@ -1,0 +1,3 @@
+[submodule "blog/jdxj.github.io"]
+	path = blog/jdxj.github.io
+	url = https://github.com/jdxj/jdxj.github.io.git
